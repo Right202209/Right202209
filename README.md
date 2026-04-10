@@ -9,4 +9,5 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
-![](https://github.com/Right202209/Right202209/blob/f48f52bb9b875bfd4b6a5c2081d49d4026391ac5/DROIT.png)
+
+![](https://github.com/Right202209/Right202209/blob/7d70e8826f02c925a16130b115957757fbd850d5/Droit.gif)
